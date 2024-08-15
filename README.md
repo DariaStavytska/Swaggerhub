@@ -17,6 +17,7 @@ Swagger пропонує два основних підходи до генер�
 
 Приклад:
 
-<img width="672" alt="GET-Request" src="https://github.com/user-attachments/assets/359ab6e6-1322-47d9-a37c-374fbe742368">
-<img width="498" alt="GET-Response" src="https://github.com/user-attachments/assets/090a8fde-bbaa-4f76-b9d0-e052993225da">
+
+
+
 
